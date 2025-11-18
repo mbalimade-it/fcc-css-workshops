@@ -4,6 +4,7 @@ body {
   padding: 20px;
 }
 
+/* HEADINGS */
 h1 {
   font-size: 40px;
   margin-top: 0;
@@ -24,59 +25,75 @@ p {
   text-align: center;
 }
 
+/* MENU BOX */
 .menu {
   width: 80%;
+  max-width: 500px;
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  max-width: 500px;
+  border-radius: 10px;
 }
 
+/* IMAGE */
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -25px;
 }
 
+/* DIVIDER */
 hr {
   height: 2px;
   background-color: brown;
-  border-color: brown;
+  border: none;
 }
 
 .bottom-line {
   margin-top: 25px;
 }
 
+/* FONT STYLE */
 h1,
 h2 {
   font-family: Impact, serif;
 }
 
-.item p {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
+/* MENU ITEMS */
+.item {
+  width: 100%;
 }
 
+/* REMOVE DEFAULT P MARGINS COMPLETELY */
+.item p {
+  display: inline-block;
+  font-size: 18px;
+  margin: 0; /* remove extra space */
+  padding: 0;
+  line-height: 1.4; /* keeps spacing even */
+}
+
+/* LEFT SIDE */
 .flavor,
 .dessert {
   text-align: left;
   width: 75%;
+  vertical-align: top; /* keep aligned with prices */
 }
 
+/* RIGHT SIDE */
 .price {
   text-align: right;
   width: 25%;
+  vertical-align: top;
 }
 
 /* FOOTER */
-
 footer {
   font-size: 14px;
+  text-align: center;
+  margin-top: 20px;
 }
 
 address {
@@ -87,18 +104,17 @@ address {
   margin-bottom: 5px;
 }
 
+/* LINKS */
 a {
   color: black;
+  text-decoration: none;
 }
 
 a:visited {
   color: black;
 }
 
-a:hover {
-  color: brown;
-}
-
+a:hover,
 a:active {
   color: brown;
 }
