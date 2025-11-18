@@ -65,31 +65,27 @@ h2 {
   width: 100%;
 }
 
-/* REMOVE DEFAULT P MARGINS COMPLETELY */
 .item p {
   display: inline-block;
   font-size: 18px;
-  margin: 0; /* remove extra space */
+  margin: 0;
   padding: 0;
-  line-height: 1.4; /* keeps spacing even */
+  line-height: 1.4;
 }
 
-/* LEFT SIDE */
 .flavor,
 .dessert {
   text-align: left;
   width: 75%;
-  vertical-align: top; /* keep aligned with prices */
+  vertical-align: top;
 }
 
-/* RIGHT SIDE */
 .price {
   text-align: right;
   width: 25%;
   vertical-align: top;
 }
 
-/* FOOTER */
 footer {
   font-size: 14px;
   text-align: center;
