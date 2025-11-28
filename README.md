@@ -19,3 +19,7 @@ Workshops are guided exercises where I learned and practiced CSS concepts. Each 
 ### [01. Cafe Menu](https://mbalimade-it.github.io/fcc-css-workshops/01_cafe_menu)
 
 _basic css_
+
+### [02. Greetings Card](https://mbalimade-it.github.io/fcc-css-workshops/02_greetings_card)
+
+_psuedo elements and classes_
