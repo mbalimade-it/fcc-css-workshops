@@ -27,3 +27,7 @@ _psuedo elements and classes_
 ### [03. Coloured Markers](https://mbalimade-it.github.io/fcc-css-workshops/03_coloured_markers)
 
 _colors_
+
+### [04. Registration Form](https://mbalimade-it.github.io/fcc-css-workshops/04_registration_form)
+
+_attribute selector, unset, account-type, vertical-align_
