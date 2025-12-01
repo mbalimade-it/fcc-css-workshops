@@ -31,3 +31,7 @@ _colors_
 ### [04. Registration Form](https://mbalimade-it.github.io/fcc-css-workshops/04_registration_form)
 
 _attribute selector, unset, account-type, vertical-align_
+
+### [05. Game Settings Panel](https://mbalimade-it.github.io/fcc-css-workshops/05_game_settings_panel)
+
+_cursor, styling checkboxes, transition, combined type selector_
