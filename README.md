@@ -23,3 +23,7 @@ _basic css_
 ### [02. Greetings Card](https://mbalimade-it.github.io/fcc-css-workshops/02_greetings_card)
 
 _psuedo elements and classes_
+
+### [03. Coloured Markers](https://mbalimade-it.github.io/fcc-css-workshops/03_coloured_markers)
+
+_colors_
