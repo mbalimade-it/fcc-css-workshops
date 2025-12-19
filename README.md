@@ -39,3 +39,7 @@ _cursor, styling checkboxes, transition, combined type selector_
 ### [06. Rothko Painting](https://mbalimade-it.github.io/fcc-css-workshops/06_rothko_painting)
 
 _filter, transform_
+
+### [07. Flexbox Photo Gallery](https://mbalimade-it.github.io/fcc-css-workshops/07_flexbox_photo_gallery)
+
+_flexbox_
